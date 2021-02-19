@@ -1,3 +1,6 @@
 [submodule "testing-git-stuff"]
 	path = testing-git-stuff
 	url = https://github.com/relyss/testing-git-stuff.git
+[submodule "dreplin"]
+	path = dreplin
+	url = https://github.com/relyss/dreplin.git
